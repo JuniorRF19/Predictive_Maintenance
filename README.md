@@ -1,1 +1,3 @@
-# Predictive_Maintenance
+# Mantenimiento Predictivo
+
+Este conjunto de datos contiene registros de plantas de propulsión de buques navieros que están sujetas a mantenimiento basado en condiciones. Con 16 características relacionadas con medidas de GT en estado estable, permite el análisis y diagnóstico del deterioro del rendimiento de los componentes de la planta, como el compresor de GT y las turbinas. Incluye parámetros como la velocidad del buque, coeficientes de degradación y otras métricas esenciales del motor. Estos datos son valiosos para el mantenimiento predictivo y la mejora de la seguridad operativa de los buques navieros.
