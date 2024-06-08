@@ -1,3 +1,47 @@
-# Mantenimiento Predictivo
+# Proyecto de Mantenimiento Predictivo: Condición del Buque Naval
 
-Este conjunto de datos contiene registros de plantas de propulsión de buques navieros que están sujetas a mantenimiento basado en condiciones. Con 16 características relacionadas con medidas de GT en estado estable, permite el análisis y diagnóstico del deterioro del rendimiento de los componentes de la planta, como el compresor de GT y las turbinas. Incluye parámetros como la velocidad del buque, coeficientes de degradación y otras métricas esenciales del motor. Estos datos son valiosos para el mantenimiento predictivo y la mejora de la seguridad operativa de los buques navieros.
+**Descripción**
+
+
+Este proyecto se centra en predecir los coeficientes de estado de descomposición del compresor de la turbina de gas y de la turbina de gas de un buque naval. Utilizando técnicas de análisis de datos y modelos de aprendizaje automático, buscamos desarrollar predicciones precisas que permitan un mantenimiento basado en la condición más eficiente, reduciendo riesgos y costos operativos.
+
+
+**Objetivos**
+
+
+*   Predecir el deterioro futuro de los componentes críticos del buque.
+*   Optimizar las actividades de mantenimiento preventivo.
+*   Mejorar la seguridad y confiabilidad operativa del buque.
+
+
+**Contenido**
+
+
+*   Exploración y visualización de datos
+*   Ingeniería de características y reducción de dimensionalidad
+*   Desarrollo y validación de modelos predictivos
+*   Resultados, conclusiones y recomendaciones
+
+
+**Estructura del Proyecto**
+
+
+*   data/: Conjunto de datos utilizado
+*   notebooks/: Notebooks de Jupyter con el análisis y modelado
+*   models/: Modelos entrenados
+*   reports/: Visualizaciones y reportes de resultados
+*   README.md: Descripción del proyecto
+
+
+**Requisitos**
+
+
+*   Python 3.7+
+*   Bibliotecas: pandas, numpy, scikit-learn, matplotlib, seaborn
+
+
+**Uso**
+
+
+*   Clonar el repositorio
+*   Ejecutar los notebooks en notebooks/ para reproducir el análisis y los resultados
