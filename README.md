@@ -28,8 +28,6 @@ Este proyecto se centra en predecir los coeficientes de estado de descomposició
 
 *   data/: Conjunto de datos utilizado
 *   notebooks/: Notebooks de Jupyter con el análisis y modelado
-*   models/: Modelos entrenados
-*   reports/: Visualizaciones y reportes de resultados
 *   README.md: Descripción del proyecto
 
 
